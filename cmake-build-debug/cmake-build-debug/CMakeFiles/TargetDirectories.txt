@@ -1,0 +1,2 @@
+C:/Users/PentaMine/ClionProjects/untitled/cmake-build-debug/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PentaMine/ClionProjects/untitled/cmake-build-debug/cmake-build-debug/CMakeFiles/rebuild_cache.dir
